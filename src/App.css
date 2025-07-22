@@ -1,0 +1,40 @@
+body {
+  font-family: sans-serif;
+  -webkit-font-smoothing: auto;
+  -moz-font-smoothing: auto;
+  -moz-osx-font-smoothing: grayscale;
+  text-rendering: optimizeLegibility;
+  font-smooth: always;
+  -webkit-tap-highlight-color: transparent;
+  -webkit-touch-callout: none;
+}
+
+h1 {
+  font-size: 1.5rem;
+}
+
+div {
+  
+  padding: 50px;
+  margin: 20px auto;
+  background-image: "https://starwalk.space/gallery/images/games-preview/1140x599.jpg";
+  
+}
+
+h2 {
+  color: yellow;
+}
+
+p{
+  color: blue;
+}
+
+button {
+  background-color: yellow;
+  margin: 10px;
+  border-radius: 3px;
+}
+
+input {
+  color: purple;
+}
